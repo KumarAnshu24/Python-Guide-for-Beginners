@@ -5,3 +5,8 @@ Everyone can contribute here simple programs they know in Python so that newbies
 
 
 We also encourage everyone reading this to goto issues tab and create atleast 1 issue for a beginner
+Code for adding two numbers :- 
+a = int(input("enter first number: "))
+b = int(input("enter second number: "))
+sum = a + b.
+print("sum:", sum)
